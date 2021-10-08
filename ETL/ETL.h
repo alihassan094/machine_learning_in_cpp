@@ -7,7 +7,7 @@
 
 class ETL
 {
-    std::string dataset;
+    std::string dataset; 
     std::string delimiter;
     bool header;
 
